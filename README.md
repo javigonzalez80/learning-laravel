@@ -1,6 +1,6 @@
-# learning Laravel
+# Learning Laravel
 
-Useful links and commands for Laravel.
+Useful Links and Artisan Commands for Laravel.
 
 ## Useful links
 
