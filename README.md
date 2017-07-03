@@ -23,9 +23,9 @@ https://laravelcollective.com/docs/5.4/html#installation
 ```
 1. step: composer.json: "require": "laravelcollective/html":"^5.4.0" 
 2. step: composer update 
-3. step: config/app.php: 'providers' => 'Collective\Html\HtmlServiceProvider'
-						 'aliases' => 'Form' => 'Collective\Html\FormFacade'
-						 'Html' => 'Collective\Html\HtmlFacade'
+3. step: config/app.php:	'providers' => 'Collective\Html\HtmlServiceProvider'
+							'aliases' => 'Form' => 'Collective\Html\FormFacade'
+							'Html' => 'Collective\Html\HtmlFacade'
 ```
 
 ## Installing Laravel
